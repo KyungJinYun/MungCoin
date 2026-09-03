@@ -1,0 +1,2 @@
+# MungCoin
+MungCoin
